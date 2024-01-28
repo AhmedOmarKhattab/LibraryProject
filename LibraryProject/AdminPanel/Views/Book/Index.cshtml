@@ -1,0 +1,83 @@
+﻿@model IEnumerable<BookViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    var Geners = new SelectList(ViewBag.Geners, "Id", "Name");
+    var Authors = new SelectList(ViewBag.Authors, "Id", "Name");
+    var bookSpecParams = new BookSpecParams();
+    
+}
+
+<h1>Books</h1>
+<br />
+<a asp-action="Create" class="btn btn-primary ">Add New Book</a>
+<div class="row justify-content-center align-items-center">
+
+
+    <form class="row col-4 offset-1 mt-5 " asp-action="Index">
+        <div class="form-group col-8">
+             <input class="form-control"name="searchname" placeholder="Search By Name" />
+        </div>
+        <div class="form-group col-4 ">
+            <input class="btn btn-success   align-items-center"  type="submit" value="Search" asp-action="Index" />
+        </div>
+           </form>
+    <form asp-action="Index" class="row col-7 mt-5">
+        <div class="col-3">
+            <select asp-items="@Geners" name="GenerId" class="form-control">
+                <option value="@null">---Select Gener---</option>
+            </select>
+            @* <span asp-validation-for="Genr" class="text-danger"></span> *@
+        </div>
+        <div class="col-3">
+            <select asp-items="@Authors" name="AuthorId" class="form-control">
+                <option value="@null">---Select Author---</option>
+            </select>
+            @*   <span asp-validation-for="" class="text-danger"></span> *@
+        </div>
+        <div class="col-1">
+            <input class="btn btn-success  align-items-center" type="submit" value="filter" />
+        </div>
+    </form>
+        </div>
+
+
+@if (Model?.Count() > 0)
+{
+    <table class="table table-striped table-hover mt-3">
+        <thead>
+            <tr>
+                <th>Image</th>
+                 <th>Title</th>
+                <th>Description</th>
+                <th>Gener</th>
+                <th>Author</th>
+                <th>Price</th>
+                <th>Details</th>
+                <th>Update</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var E in Model)
+            {
+                <tr>
+                    <td><img src="~/files/Images/@E.PictureUrl" class="img-fluid rounded" alt="Book Image" /></td>
+                    <td>@E.Title</td>
+                    <td>@E.Description</td>
+                    <td>@E.GenerName</td>
+                    <td>@E.AuthorName</td>
+                    <td>@Html.DisplayFor(M => E.Price)</td>
+                    <partial name="ButtonPartialView" model="E.Id" />
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning text-center mt-3">
+        <h3>No Books Found</h3>
+    </div>
+}
+

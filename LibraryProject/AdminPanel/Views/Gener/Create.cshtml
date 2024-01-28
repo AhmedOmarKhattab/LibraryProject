@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create New Gener</h1>
+<form asp-action="Create">
+    <partial name="PartialViews/CreateEditView" />
+    <input class="btn btn-primary " value="Add" type="submit">
+    <a class="btn btn-light " asp-action="Index">Back to Home</a>
+</form>
+@section ValidationSection
+{
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,33 @@
+﻿@model BookViewModel
+<input hidden asp-for="PictureUrl" />
+
+<div class="form-group">
+    <img src="~/files/Images/@Model?.PictureUrl" alt="Unsetted" />
+</div>
+<div class="form-group">
+    <label class="col-form-label">Title</label>
+    <input asp-for="Title" class="form-control" readonly/>
+</div>
+<div class="form-group">
+    <label class="col-form-label">Description</label>
+    <input asp-for="Description" class="form-control" readonly/>
+</div>
+<div class="form-group">
+    <label class="col-form-label">Price</label>
+    <input asp-for="Price" class="form-control" readonly/>
+</div>
+<div class="form-group">
+    <label class="col-form-label">Gener</label>
+    <input asp-for="GenerName" class="form-control"readonly />
+    <input asp-for="GenerId" class="form-control" hidden />
+
+</div>
+<div class="form-group">
+    <label class="col-form-label">Author</label>
+    <input asp-for="AuthorName" class="form-control" readonly/>
+    <input asp-for="AuthorId" class="form-control" hidden />
+
+</div>
+<br />
+
+

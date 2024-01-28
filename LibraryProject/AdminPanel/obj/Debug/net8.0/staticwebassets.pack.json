@@ -1,0 +1,521 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminPanel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AdminPanel.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\02f83150-0127-4a83-b659-7fd25883f96cvacation.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\02f83150-0127-4a83-b659-7fd25883f96cvacation.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\0d01024f-2ead-4575-bf40-8d54ab23cf49myphoto.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\0d01024f-2ead-4575-bf40-8d54ab23cf49myphoto.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\1127e00c-b7ff-4c5b-a7ae-453694c724bcunnamed.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\1127e00c-b7ff-4c5b-a7ae-453694c724bcunnamed.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\4fb6a1a0-5846-4f15-9f44-5ad07a1fdada360.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\4fb6a1a0-5846-4f15-9f44-5ad07a1fdada360.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\65ca645a-05a4-44d6-9a20-f44bde391637360.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\65ca645a-05a4-44d6-9a20-f44bde391637360.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\72b5f818-1fc2-4bee-8f6a-990af6578564unnamed.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\72b5f818-1fc2-4bee-8f6a-990af6578564unnamed.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\7ee22a3e-2c81-48ec-ae9e-03297f566451360.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\7ee22a3e-2c81-48ec-ae9e-03297f566451360.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\8a8875ef-3729-4759-973f-6225bac12dc4unnamed.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\8a8875ef-3729-4759-973f-6225bac12dc4unnamed.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\8c1c1d17-f50c-4cf3-9918-4407f07adebb360.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\8c1c1d17-f50c-4cf3-9918-4407f07adebb360.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\8d583e4b-9dc8-441b-b84f-fe2e50995c23360.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\8d583e4b-9dc8-441b-b84f-fe2e50995c23360.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\8ff9a7a8-e32d-4d32-acfc-476a0f013778unnamed.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\8ff9a7a8-e32d-4d32-acfc-476a0f013778unnamed.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\96cca54a-4de0-4893-9636-be6dbd6f14131603290617689.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\96cca54a-4de0-4893-9636-be6dbd6f14131603290617689.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\9a5987ef-1bfb-4581-8663-b59073bb8180360.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\9a5987ef-1bfb-4581-8663-b59073bb8180360.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\ab0d1985-1761-4c98-a622-be33db2fd7f71603290617689.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\ab0d1985-1761-4c98-a622-be33db2fd7f71603290617689.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\c02812f2-eff1-484a-947d-89367e957e35360.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\c02812f2-eff1-484a-947d-89367e957e35360.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\ca4a0c15-e11b-44f4-a5ac-1593fc3c106c360.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\ca4a0c15-e11b-44f4-a5ac-1593fc3c106c360.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\d2f25172-54d4-480c-9e65-ba48d2757bc865535_52215297981_6ca7bb37e1_z_640_360_nofilter.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\d2f25172-54d4-480c-9e65-ba48d2757bc865535_52215297981_6ca7bb37e1_z_640_360_nofilter.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\d95b993b-4458-449a-bfab-514f431f585a360.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\d95b993b-4458-449a-bfab-514f431f585a360.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\e2e076a2-ffef-4594-9f4a-de0e703e0ec2360.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\e2e076a2-ffef-4594-9f4a-de0e703e0ec2360.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\ef35a3da-624a-4ca0-8800-f1b91705fac6caribbean.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\ef35a3da-624a-4ca0-8800-f1b91705fac6caribbean.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\fabaae6c-f32b-467d-b048-28116373cf2765535_52215297981_6ca7bb37e1_z_640_360_nofilter.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\fabaae6c-f32b-467d-b048-28116373cf2765535_52215297981_6ca7bb37e1_z_640_360_nofilter.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AdminPanel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AdminPanel.props",
+      "PackagePath": "build\\AdminPanel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminPanel.props",
+      "PackagePath": "buildMultiTargeting\\AdminPanel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AdminPanel.props",
+      "PackagePath": "buildTransitive\\AdminPanel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,63 @@
+﻿@model BookViewModel
+@{
+    var Geners = new SelectList( ViewBag.Geners, "Id", "Name");
+    var Authors = new SelectList( ViewBag.Authors, "Id", "Name");
+}
+<div class="form-group">
+    <label class="col-form-label">Title</label>
+    <input asp-for="Title" class="form-control" />
+    <span asp-validation-for="Title" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label">Description</label>
+    <input asp-for="Description" class="form-control" />
+    <span asp-validation-for="Description" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label">Price</label>
+    <input asp-for="Price" class="form-control" />
+    <span asp-validation-for="Price" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label">Gener</label>
+    <select asp-items="@Geners" asp-for="GenerId" class="form-control">
+        <option value="@null">--Select Gener---</option>
+    </select>
+    <span asp-validation-for="GenerId" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label">Author</label>
+        <select asp-items="@Authors" asp-for="AuthorId" class="form-control" >
+            <option value="@null">--Select Author---</option>
+        </select>
+    <span asp-validation-for="AuthorId" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <label class="col-form-label">Current Photo</label>
+    <img src="~/files/Images/@Model?.PictureUrl" alt="Unsetted" id="BookImage" />
+    <input readonly asp-for="PictureUrl" class="form-control" id="url" />
+    <span asp-validation-for="PictureUrl" class="text-danger"></span>
+</div>
+
+
+<div class="form-group">
+    <label class="col-form-label">Upload Image</label>
+    <input type="file" class="form-control" asp-for="Image" id="ImageSource" onchange="PrievewImage()"/>
+</div>
+<br />
+<script>
+    function PrievewImage() { 
+        var Input = document.getElementById("ImageSource");
+        var Preview = document.getElementById("BookImage");
+        var url = document.getElementById("url");
+        var file = Input.files[0];
+        var reader = new FileReader();
+        reader.onload = function (e) {
+            Preview.src = e.target.result;
+            url.value = "photo added succesfully";
+        };
+        reader.readAsDataURL(file);
+    }
+
+</script>

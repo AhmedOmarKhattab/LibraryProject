@@ -1,0 +1,15 @@
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\bin\Debug\net8.0\DLL.deps.json
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\bin\Debug\net8.0\DLL.dll
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\bin\Debug\net8.0\DLL.pdb
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\bin\Debug\net8.0\DAL.dll
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\bin\Debug\net8.0\DAL.pdb
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\obj\Debug\net8.0\DLL.csproj.AssemblyReference.cache
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\obj\Debug\net8.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\obj\Debug\net8.0\DLL.AssemblyInfoInputs.cache
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\obj\Debug\net8.0\DLL.AssemblyInfo.cs
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\obj\Debug\net8.0\DLL.csproj.CoreCompileInputs.cache
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\obj\Debug\net8.0\DLL.csproj.CopyComplete
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\obj\Debug\net8.0\DLL.dll
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\obj\Debug\net8.0\refint\DLL.dll
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\obj\Debug\net8.0\DLL.pdb
+D:\projects\C# projects\Core Projects\LibraryProject\DLL\obj\Debug\net8.0\ref\DLL.dll

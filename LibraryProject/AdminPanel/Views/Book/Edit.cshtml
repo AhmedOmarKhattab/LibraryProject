@@ -1,0 +1,18 @@
+﻿ @model BookViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<form asp-action="Edit" enctype="multipart/form-data">
+    <Partial name="PartialViews/CreateEdit" />
+
+    <input class="btn btn-primary " value="Save" type="submit">
+
+    <a class="btn btn-light " asp-action="Index">Back to Home</a>
+</form>
+@section ValidationSection
+{
+    <partial name="_ValidationScriptsPartial" />
+}

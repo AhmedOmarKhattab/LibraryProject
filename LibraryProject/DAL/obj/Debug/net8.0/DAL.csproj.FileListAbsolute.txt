@@ -1,0 +1,12 @@
+D:\projects\C# projects\Core Projects\LibraryProject\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\projects\C# projects\Core Projects\LibraryProject\DAL\bin\Debug\net8.0\DAL.dll
+D:\projects\C# projects\Core Projects\LibraryProject\DAL\bin\Debug\net8.0\DAL.pdb
+D:\projects\C# projects\Core Projects\LibraryProject\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C# projects\Core Projects\LibraryProject\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\projects\C# projects\Core Projects\LibraryProject\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\projects\C# projects\Core Projects\LibraryProject\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\projects\C# projects\Core Projects\LibraryProject\DAL\obj\Debug\net8.0\DAL.dll
+D:\projects\C# projects\Core Projects\LibraryProject\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\projects\C# projects\Core Projects\LibraryProject\DAL\obj\Debug\net8.0\DAL.pdb
+D:\projects\C# projects\Core Projects\LibraryProject\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\projects\C# projects\Core Projects\LibraryProject\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache

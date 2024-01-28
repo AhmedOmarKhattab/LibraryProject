@@ -1,0 +1,14 @@
+﻿@model GenerViewModel
+<div class="form-group">
+    <label class="col-form-label">Code</label>
+    <input asp-for="Id" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label class="col-form-label">Name</label>
+    <input asp-for="Name" class="form-control" readonly />
+</div>
+<br />
+<h1>Gener Books</h1>
+<partial name="_BooksPartialView" model="@Model.Books"/>
+
+<a asp-action="Index" class="btn btn-light">Back to Home</a>

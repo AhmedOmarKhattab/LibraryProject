@@ -1,0 +1,13 @@
+﻿@model BookViewModel
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Are You Sure You Want To Delete This Book ?</h1>
+
+<form asp-action="Delete">
+    <partial name="PartialViews/DeleteDetailsView" />
+    <input class="btn btn-danger " value="Delete" type="submit">
+    <a class="btn btn-light " asp-action="Index">Back to Home</a>
+</form>
+

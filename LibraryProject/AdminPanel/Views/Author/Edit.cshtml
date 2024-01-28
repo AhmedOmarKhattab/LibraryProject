@@ -1,0 +1,16 @@
+﻿ @model AuthorViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<form asp-action="Edit">
+    <partial name="PartialViews/CreateEditView" />
+    <input type="submit" value="Save" class="btn btn-secondary" />
+    <a class="btn btn-light " asp-action="Index">Back to Home</a>
+</form>
+@section ValidationSection
+{
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,15 @@
+﻿@model GenerViewModel
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1> Are you sure you want to delete this gener ?</h1>
+<p class="text-danger">Note  if you delete it all books inside it will be deleted</p>
+<form asp-action="Delete">
+
+    <partial name="PartialViews/DeleteDetailsView" />
+
+    <input type="submit" value="Delete" class="btn btn-danger" />
+
+</form>
+
