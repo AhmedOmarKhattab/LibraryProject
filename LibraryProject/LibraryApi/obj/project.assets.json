@@ -4534,11 +4534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\LibraryApi\\LibraryApi.csproj",
+      "projectUniqueName": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\LibraryApi\\LibraryApi.csproj",
       "projectName": "LibraryApi",
-      "projectPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\LibraryApi\\LibraryApi.csproj",
+      "projectPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\LibraryApi\\LibraryApi.csproj",
       "packagesPath": "C:\\Users\\ahmmm\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\LibraryApi\\obj\\",
+      "outputPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\LibraryApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmmm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4555,8 +4555,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DLL\\DLL.csproj": {
-              "projectPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DLL\\DLL.csproj"
+            "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DLL\\DLL.csproj": {
+              "projectPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DLL\\DLL.csproj"
             }
           }
         }

@@ -2,10 +2,6 @@
 
 @{
     ViewData["Title"] = "Index";
-    var Geners = new SelectList(ViewBag.Geners, "Id", "Name");
-    var Authors = new SelectList(ViewBag.Authors, "Id", "Name");
-    var bookSpecParams = new BookSpecParams();
-    
 }
 
 <h1>Books</h1>
@@ -22,24 +18,9 @@
             <input class="btn btn-success   align-items-center"  type="submit" value="Search" asp-action="Index" />
         </div>
            </form>
-    <form asp-action="Index" class="row col-7 mt-5">
-        <div class="col-3">
-            <select asp-items="@Geners" name="GenerId" class="form-control">
-                <option value="@null">---Select Gener---</option>
-            </select>
-            @* <span asp-validation-for="Genr" class="text-danger"></span> *@
-        </div>
-        <div class="col-3">
-            <select asp-items="@Authors" name="AuthorId" class="form-control">
-                <option value="@null">---Select Author---</option>
-            </select>
-            @*   <span asp-validation-for="" class="text-danger"></span> *@
-        </div>
-        <div class="col-1">
-            <input class="btn btn-success  align-items-center" type="submit" value="filter" />
-        </div>
-    </form>
-        </div>
+    <Partial name="PartialViews/FilterationView" model ="new BookSpecParams()" />
+
+</div>
 
 
 @if (Model?.Count() > 0)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RNPhVapsNtOoM2q+KjlUTBF9u79kxPFGmCaAnmftb8Bd25P/NJJ4nVj3ykxAJmNVkfsnJVWWjx63DonxLCbRGQ==",
+  "dgSpecHash": "jueRABErZevcCkzCDNtHA/MhjmV9OAuluPvR0rTfzs4AJ/NZUWfWOD5+jF5DDPoZsHGA67ZECPmc/b0qinfaiw==",
   "success": true,
-  "projectFilePath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\AdminPanel.csproj",
+  "projectFilePath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\AdminPanel\\AdminPanel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmmm\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ahmmm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

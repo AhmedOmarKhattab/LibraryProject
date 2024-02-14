@@ -9,7 +9,7 @@ namespace AdminPanel
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -27,6 +27,23 @@ namespace AdminPanel
 
 
             var app = builder.Build();
+         
+            using var scope = app.Services.CreateScope();
+            var services = scope.ServiceProvider;
+          
+            var LoggerFactory = services.GetRequiredService<ILoggerFactory>();
+
+            try
+            {
+                var dbcontext = services.GetService<LibraryContext>();
+                await dbcontext.Database.MigrateAsync();
+            }
+            catch (Exception ex)
+            {
+                var logger = LoggerFactory.CreateLogger<Program>();
+                logger.LogError(ex, "An error occured during apply migration");
+            }
+        
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())

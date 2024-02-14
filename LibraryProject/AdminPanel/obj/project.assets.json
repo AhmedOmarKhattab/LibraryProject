@@ -8018,11 +8018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\AdminPanel.csproj",
+      "projectUniqueName": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\AdminPanel\\AdminPanel.csproj",
       "projectName": "AdminPanel",
-      "projectPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\AdminPanel.csproj",
+      "projectPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\AdminPanel\\AdminPanel.csproj",
       "packagesPath": "C:\\Users\\ahmmm\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\obj\\",
+      "outputPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\AdminPanel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmmm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8039,8 +8039,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DLL\\DLL.csproj": {
-              "projectPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DLL\\DLL.csproj"
+            "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DLL\\DLL.csproj": {
+              "projectPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DLL\\DLL.csproj"
             }
           }
         }

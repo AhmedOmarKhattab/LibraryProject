@@ -24,7 +24,7 @@ namespace AdminPanel.Controllers
            
         }
        
-        public async Task<IActionResult> Index(int? GenerId,int? AuthorId,string searchname)
+        public async Task<IActionResult> Index(BookSpecParams bookSpecParams,string searchname)
         {
             IEnumerable<BookViewModel> BooksMapped;
             IEnumerable<Book> Books;
@@ -35,11 +35,6 @@ namespace AdminPanel.Controllers
             }
             else
             {
-                var bookSpecParams = new BookSpecParams()
-                {
-                    GenerId = GenerId,
-                    AuthorId = AuthorId,
-                };
                 var spec = new BookSpecifications(bookSpecParams);
                 Books = await _adminRepository.BookRepository.GetAllWithSpecAsync(spec);
             }

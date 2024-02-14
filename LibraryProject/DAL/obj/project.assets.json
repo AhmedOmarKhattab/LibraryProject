@@ -317,11 +317,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DAL\\DAL.csproj",
+      "projectUniqueName": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DAL\\DAL.csproj",
+      "projectPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\ahmmm\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DAL\\obj\\",
+      "outputPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmmm\\AppData\\Roaming\\NuGet\\NuGet.Config",

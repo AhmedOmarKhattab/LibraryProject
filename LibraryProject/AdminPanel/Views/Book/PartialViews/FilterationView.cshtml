@@ -1,0 +1,22 @@
+﻿@model BookSpecParams
+@{
+    var Geners = new SelectList(ViewBag.Geners, "Id", "Name");
+    var Authors = new SelectList(ViewBag.Authors, "Id", "Name");
+}
+<form asp-action="Index" class="row col-7 mt-5">
+    <div class="col-3">
+        <select asp-items="@Geners" asp-for="@Model.GenerId" class="form-control">
+            <option value="@null">---Select Gener---</option>
+        </select>
+        @* <span asp-validation-for="Genr" class="text-danger"></span> *@
+    </div>
+    <div class="col-3">
+        <select asp-items="@Authors" asp-for="@Model.AuthorId" class="form-control">
+            <option value="@null">---Select Author---</option>
+        </select>
+        @*   <span asp-validation-for="" class="text-danger"></span> *@
+    </div>
+    <div class="col-1">
+        <input class="btn btn-success  align-items-center" type="submit" value="filter" />
+    </div>
+</form>
