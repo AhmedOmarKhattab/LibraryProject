@@ -14,5 +14,6 @@ namespace LibraryRepositories.Interfaces
         public Task<IReadOnlyList<T>> GetAllAsync();
         public Task<T> GetWithSpecAsync(ISpecification<T> spec);
         public Task<IReadOnlyList<T>> GetAllWithSpecAsync(ISpecification<T>spec);
+        public Task<int> GetCountWithSpecAsync(ISpecification<T> spec);
     }
 }

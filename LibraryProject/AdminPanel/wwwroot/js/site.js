@@ -1,4 +1,12 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
-
-// Write your JavaScript code.
+﻿function PrievewImage() {
+    var Input = document.getElementById("ImageSource");
+    var Preview = document.getElementById("BookImage");
+    var url = document.getElementById("url");
+    var file = Input.files[0];
+    var reader = new FileReader();
+    reader.onload = function (e) {
+        Preview.src = e.target.result;
+        url.value = "photo added succesfully";
+    };
+    reader.readAsDataURL(file);
+}

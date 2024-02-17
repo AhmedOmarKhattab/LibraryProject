@@ -32,6 +32,11 @@ namespace DLL.Repositories
             return await _context.Set<T>().Where(T=>T.Id==id).FirstOrDefaultAsync();
         }
 
+        public async Task<int> GetCountWithSpecAsync(ISpecification<T> spec)
+        {
+            return await ApplySpecification(spec).CountAsync();
+        }
+
         public async Task<T> GetWithSpecAsync(ISpecification<T> spec)
         {
             return await ApplySpecification(spec).FirstOrDefaultAsync();

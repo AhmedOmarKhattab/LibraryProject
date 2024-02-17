@@ -9,7 +9,7 @@ namespace DLL
     public class BookSpecParams
     {
         private const int MaxSize= 10;
-        private int pagesize;
+        private int pagesize=5;
         public int PageIndex { set; get; } = 1;
        public int PageSize
         {

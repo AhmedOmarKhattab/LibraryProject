@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\AdminPanel\\AdminPanel.csproj": {}
+    "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\AdminPanel.csproj": {}
   },
   "projects": {
-    "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\AdminPanel\\AdminPanel.csproj": {
+    "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\AdminPanel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\AdminPanel\\AdminPanel.csproj",
+        "projectUniqueName": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\AdminPanel.csproj",
         "projectName": "AdminPanel",
-        "projectPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\AdminPanel\\AdminPanel.csproj",
+        "projectPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\AdminPanel.csproj",
         "packagesPath": "C:\\Users\\ahmmm\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\AdminPanel\\obj\\",
+        "outputPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmmm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DLL\\DLL.csproj": {
-                "projectPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DLL\\DLL.csproj"
+              "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DLL\\DLL.csproj": {
+                "projectPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DLL\\DLL.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DAL\\DAL.csproj": {
+    "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DAL\\DAL.csproj",
+        "projectPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\ahmmm\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DAL\\obj\\",
+        "outputPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmmm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -137,14 +137,14 @@
         }
       }
     },
-    "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DLL\\DLL.csproj": {
+    "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DLL\\DLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DLL\\DLL.csproj",
+        "projectUniqueName": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DLL\\DLL.csproj",
         "projectName": "DLL",
-        "projectPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DLL\\DLL.csproj",
+        "projectPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DLL\\DLL.csproj",
         "packagesPath": "C:\\Users\\ahmmm\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DLL\\obj\\",
+        "outputPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmmm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,8 +161,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\projects\\C# projects\\Core Projects\\Apis\\LibraryProject\\DAL\\DAL.csproj"
+              "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\DAL\\DAL.csproj"
               }
             }
           }

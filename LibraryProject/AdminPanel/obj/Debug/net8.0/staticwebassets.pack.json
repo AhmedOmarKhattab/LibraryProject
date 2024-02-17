@@ -25,12 +25,20 @@
       "PackagePath": "staticwebassets\\files\\Images\\1127e00c-b7ff-4c5b-a7ae-453694c724bcunnamed.jpg"
     },
     {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\1e1c88bf-d4f9-4fc3-bd51-3408725f1b4ccat2.png",
+      "PackagePath": "staticwebassets\\files\\Images\\1e1c88bf-d4f9-4fc3-bd51-3408725f1b4ccat2.png"
+    },
+    {
       "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\4fb6a1a0-5846-4f15-9f44-5ad07a1fdada360.jpg",
       "PackagePath": "staticwebassets\\files\\Images\\4fb6a1a0-5846-4f15-9f44-5ad07a1fdada360.jpg"
     },
     {
       "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\65ca645a-05a4-44d6-9a20-f44bde391637360.jpg",
       "PackagePath": "staticwebassets\\files\\Images\\65ca645a-05a4-44d6-9a20-f44bde391637360.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\6db8ccd7-bf47-45a3-a72b-7e6ebbae7d0f1603290617689.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\6db8ccd7-bf47-45a3-a72b-7e6ebbae7d0f1603290617689.jpg"
     },
     {
       "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\72b5f818-1fc2-4bee-8f6a-990af6578564unnamed.jpg",
@@ -57,12 +65,12 @@
       "PackagePath": "staticwebassets\\files\\Images\\8ff9a7a8-e32d-4d32-acfc-476a0f013778unnamed.jpg"
     },
     {
-      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\96cca54a-4de0-4893-9636-be6dbd6f14131603290617689.jpg",
-      "PackagePath": "staticwebassets\\files\\Images\\96cca54a-4de0-4893-9636-be6dbd6f14131603290617689.jpg"
-    },
-    {
       "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\9a5987ef-1bfb-4581-8663-b59073bb8180360.jpg",
       "PackagePath": "staticwebassets\\files\\Images\\9a5987ef-1bfb-4581-8663-b59073bb8180360.jpg"
+    },
+    {
+      "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\9d3ff795-5652-4f8a-96ad-336ff956bdd1cat1.png",
+      "PackagePath": "staticwebassets\\files\\Images\\9d3ff795-5652-4f8a-96ad-336ff956bdd1cat1.png"
     },
     {
       "Id": "D:\\projects\\C# projects\\Core Projects\\LibraryProject\\AdminPanel\\wwwroot\\files\\Images\\ab0d1985-1761-4c98-a622-be33db2fd7f71603290617689.jpg",

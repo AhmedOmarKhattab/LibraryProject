@@ -14,6 +14,11 @@ namespace DLL.Specifications
         public List<Expression<Func<T, object>>> Includes { get; set; } = new List<Expression<Func<T, object>>>();
         public Expression<Func<T, object>> OrderBy { get; set; }
         public Expression<Func<T, object>> OrderByDesc { get; set; }
+        public int Take { set; get; }
+        public int Count { set; get; }
+        public int Skip {set; get; }
+        public bool IsPagination { get; set; }
+
         public BaseSpecification()
         {
 
@@ -28,5 +33,12 @@ namespace DLL.Specifications
         }
         public void AddOrderByDesc(Expression<Func<T, object>> orderByDesc)
         { OrderByDesc = orderByDesc; }
+        public void ApplyPagination(int skip,int take)
+        {
+         IsPagination = true;
+            Take= take;
+            Skip=skip;
+        }
+
     }
 }

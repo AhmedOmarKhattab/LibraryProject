@@ -39,7 +39,13 @@ namespace DLL.Specifications
                 }
 
             }
+            ApplyPagination(productspecparams.PageSize*( productspecparams.PageIndex-1), productspecparams.PageSize);
         }
+
+         public BookSpecifications(BookSpecParams productspecparams,bool getcount) :
+            base(B => (!productspecparams.GenerId.HasValue || B.GenerId == productspecparams.GenerId.Value)
+            && (!productspecparams.AuthorId.HasValue || productspecparams.AuthorId.Value == B.AuthorId))
+        { }
         public BookSpecifications(Expression<Func<Book,bool>> criteria)
         {
             Includes.Add(B => B.Author);

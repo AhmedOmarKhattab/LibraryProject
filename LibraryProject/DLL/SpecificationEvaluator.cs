@@ -21,6 +21,8 @@ namespace DLL
                 query = query.OrderBy(spec.OrderBy);
             if (spec.OrderByDesc is not null)
                 query=query.OrderByDescending(spec.OrderByDesc);
+            if(spec.IsPagination)
+                query=query.Skip(spec.Skip).Take(spec.Take);
                 return query;
 
         }
